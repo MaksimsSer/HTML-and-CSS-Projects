@@ -109,7 +109,7 @@ section {
 .wrap {
     height: 100%;
     width: 100%;
-    position:absolute;
+    position: absolute;
     /*  This ensures that the images cannot 
     render outline or their container 
     without forcing any sroolbars */
